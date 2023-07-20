@@ -1,0 +1,7 @@
+print("Enter 5 Numbers : ")
+a=int (input())
+b=int (input())
+c=int (input())
+d=int (input())
+e=int (input())
+print("Avarge of a b c d e is :",float((a+b+c+d+e)/5))
